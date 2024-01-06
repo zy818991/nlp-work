@@ -1,0 +1,2 @@
+对图像生成描述可以在Image-Caption-Generator中generate-Copy1.ipynb文件里通过runModel函数来实现，其输入是所要生成描述的图像。
+route_sy是django项目，可以生成一个界面，其中包含一些生成图像的样例以及生成图像的接口，通过该接口来实现描述生成的功能。
